@@ -28,6 +28,7 @@ text.setText("0");
 	}
 	public void purasu(View v){
 		number = number + 1;
+		number = number + 1;
 		text.setText(String.valueOf(number));
 	}
 	public void mainasu(View v){
